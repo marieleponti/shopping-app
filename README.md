@@ -1,24 +1,5 @@
 # sales_app
+Front end of basic shopping app using Vue, that allows users to add items to 
+shopping cart.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Components of App include Products, Reviews, and Tabs. 
